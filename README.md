@@ -11,7 +11,7 @@ After earning UMR token you can exchange it with any other crypto currency.
 You can play/control with arrow keys.
 
 
-**GAME SRUCTURE**
+**GAME STRUCTURE**
 
 Race consist of 4 rounds/laps of competetion, each round of 1 minute.
 Some races based on time.
@@ -48,7 +48,7 @@ Liquidity	-	-	-
  Game Launch: October 1st, 2022
  Token Burns (10%): November 1st, 2022
 
-**LEGAL DSCLAIMER:**
+**LEGAL DISCLAIMER:**
 
 The information set forth may not be exhaustive and does not imply any elements of a contractual relationship. While we make every effort to ensure that any material in this White Paper is accurate and up to date, such material in no way constitutes the provision of professional advice. UMR does not guarantee, and accepts no legal liability whatsoever arising from or connected to, the accuracy, reliability, currency, or completeness of any material contained in this White Paper.
 
