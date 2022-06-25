@@ -1,4 +1,4 @@
-**INTODUCTION**
+**INTRODUCTION**
 
 UMR is a play to earn car racing game (UMR Cars) that will allow users the ability to earn UMR token. UMR Cars Player will also enjoy this entertaining racing game. It is a fully verifiable blockchain and high earning potential due to daily targets and decentralized community participation.
 
@@ -23,7 +23,7 @@ Some races based on winning 1st position.
 Name: UMR CARS
 Launch Date: October 1st, 2022
 
-**UMR TOKEN DETAILS**
+**UMR COIN DETAILS**
 
 Name: UMR Token
 Ticker: UMR
