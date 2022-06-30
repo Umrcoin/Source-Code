@@ -30,13 +30,6 @@ Ticker: UMR
 Maximum Supply: 1000,000,000
 Network: Binance Smart Chain (BEP-20)
 
-**TOKENOMICS**
-
-Particulars   Tokens  	      Percentage	    Price
-Presale 	    500,000	          0.05%	        -
-Private Sale	500,000	          0.05%	        -
-Public Sale	  10,000,000	      1.00%	        -
-Liquidity	-	-	-
 
 **ROADMAP:**
 
