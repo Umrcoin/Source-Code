@@ -21,7 +21,7 @@ Some races based on winning 1st position.
 **GAME NAME & LAUNCH DATE**
 
 Name: UMR CARS
-Launch Date: October 1st, 2022
+Launch Date: October 15, 2022
 
 **UMR COIN DETAILS**
 
