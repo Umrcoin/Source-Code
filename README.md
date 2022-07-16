@@ -25,7 +25,7 @@ Launch Date: October 1st, 2022
 
 **UMR COIN DETAILS**
 
-Name: UMR Token
+Name: UMR COIN
 Ticker: UMR
 Maximum Supply: 1000,000,000
 Network: Binance Smart Chain (BEP-20)
@@ -33,12 +33,11 @@ Network: Binance Smart Chain (BEP-20)
 
 **ROADMAP:**
 
- Token Created: February, 2022
  Website Launched: June, 2022
- Presale: July 1st, 2022
- Private Sale: July 3rd, 2022
- Public Sale: July 15, 2022
- Game Launch: October 1st, 2022
+ Private Sale: July 15, 2022
+ Pre Sale: July 16, 2022
+ Public Sale: August 1st, 2022
+ Game Launch: October 15, 2022
  Token Burns (10%): November 1st, 2022
 
 **LEGAL DISCLAIMER:**
