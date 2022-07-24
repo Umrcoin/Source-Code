@@ -21,7 +21,7 @@ Some races based on winning 1st position.
 **GAME NAME & LAUNCH DATE**
 
 Name: UMR CARS
-Launch Date: October 15, 2022
+Launch Date: November 15, 2022
 
 **UMR COIN DETAILS**
 
@@ -36,9 +36,9 @@ Network: Binance Smart Chain (BEP-20)
  Website Launched: June, 2022
  Private Sale: July 15, 2022
  Pre Sale: July 16, 2022
- Public Sale: August 1st, 2022
- Game Launch: October 15, 2022
- Token Burns (10%): November 1st, 2022
+ Public Sale: August 20, 2022
+ Game Launch: November 15, 2022
+ Token Burns (10%): December 1st, 2022
 
 **LEGAL DISCLAIMER:**
 
