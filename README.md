@@ -2,6 +2,15 @@
 
 UMR is a play to earn car racing game (UMR Cars) that will allow users the ability to earn UMR token. UMR Cars Player will also enjoy this entertaining racing game. It is a fully verifiable blockchain and high earning potential due to daily targets and decentralized community participation.
 
+The UMR COIN  is a peer to peer system designed for exchanging cryptocurrencies BEP-20 Tokens on the Binance Smart Chain. The protocol is implemented as a set of persistent, non upgradable smart contracts; designed to prioritize censorship resistance, security, self custody, and to function without any trusted intermediaries who may selectively restrict access.
+
+**FEATURES**
+
+Instantly swap crypto tokens, no registration or account needed.
+UMR COIN is the leading decentralized exchange on Binance Smart Chain.
+Low Fees: UMR COIN runs on Binance Smart Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin. Trading fees are lower than other top decentralized exchanges too.
+Trade directly from your wallet app. Unlike centralized exchanges like Binance or Coinbase, UMR COIN does not hold your funds when you trade, you have 100% ownership of your own crypto.
+
 
 **GAME OVERVIEW**
 
@@ -10,13 +19,11 @@ For earning UMR token you just connect, play and complete game targets.
 After earning UMR token you can exchange it with any other crypto currency.
 You can play/control with arrow keys.
 
-
 **GAME STRUCTURE**
 
 Race consist of 4 rounds/laps of competetion, each round of 1 minute.
 Some races based on time.
 Some races based on winning 1st position.
-
 
 **GAME NAME & LAUNCH DATE**
 
@@ -36,7 +43,7 @@ Network: Binance Smart Chain (BEP-20)
  Website Launched: June, 2022
  Private Sale: July 15, 2022
  Pre Sale: July 16, 2022
- Public Sale: August 20, 2022
+ Public Sale: August 25, 2022
  Game Launch: November 15, 2022
  Token Burns (10%): December 1st, 2022
 
