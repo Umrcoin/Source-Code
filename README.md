@@ -42,7 +42,7 @@ Network: Binance Smart Chain (BEP-20)
 Website Launched: June, 2022
 Private Sale: July 15, 2022
 Pre Sale: July 16, 2022
-Public Sale: August 25, 2022
+Public Sale: September 1st, 2022
 Game Launch: November 15, 2022
 Token Burns (10%): December 1st, 2022
 
