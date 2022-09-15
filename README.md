@@ -39,8 +39,8 @@ Network: Binance Smart Chain (BEP-20)
 Website Launched: June, 2022
 Private Sale: July 15, 2022
 White List: July 16, 2022
-Pre-Sale / Launch: September 21, 2022
-Listing: September 24, 2022
+Pre-Sale / Launch: September 19, 2022
+Listing: September 22, 2022
 Game Launch: November 15, 2022
 
 **LEGAL DISCLAIMER:**
